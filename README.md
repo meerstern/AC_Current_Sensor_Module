@@ -25,11 +25,16 @@ Minimally invasive current sensor board
  <img src="https://github.com/meerstern/AC_Current_Sensor_Module/blob/master/IMG/AC_IMG5.JPG" width="360">
  
  <img src="https://github.com/meerstern/AC_Current_Sensor_Module/blob/master/IMG/AC_IMG6.JPG" width="360">
+ 
+ <img src="https://github.com/meerstern/AC_Current_Sensor_Module/blob/master/IMG/AC_IMG7.JPG" width="360">
     
 ## 注意 
  * 布巻き電源ケーブルや傷、破損のある電源ケーブルに対して使用しないでください  
  * 電源ケーブルの破損防止のため、電源ケーブルとセンサ基板を強く固定しないでください  
- * 当電流センサ基板は商用交流(50Hz、60Hz)専用で直流電流やその他交流電流の測定には使用できません    
+ * 当電流センサ基板は商用交流(50Hz、60Hz)専用で直流電流やその他交流電流の測定には使用できません  
+ * 実験、評価用途を目的としています  
+ * 15A以上の電流測定には使用しないでください  
+ * 商用電源のノイズがアナログ出力に入る場合は必要に応じて、フィルタ処理をしてください  
  * 磁界変化をピークホールドさせるため、急激な電流変化や微小な電流変化の検出はできません  
  * 同じ電流であっても電源ケーブルの種類や取り付け位置によっても磁界の大きさが変化し、出力も合わせて変化します  
  * 電流とアナログ出力電圧の関係は事前にクランプ式電流センサ等で確認してください  
