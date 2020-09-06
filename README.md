@@ -1,4 +1,4 @@
-# AC_Current_Sensor_Module
+# AC電流センサ基板
 Minimally invasive current sensor board
 
 ## 概要 
@@ -9,6 +9,7 @@ Minimally invasive current sensor board
   * センサ電源は2.5V～5V電源を供給してください  
   
    <img src="https://github.com/meerstern/AC_Current_Sensor_Module/blob/master/IMG/AC_IMG1.JPG" width="360">
+   
    <img src="https://github.com/meerstern/AC_Current_Sensor_Module/blob/master/IMG/AC_IMG2.JPG" width="360">
   
 
@@ -20,7 +21,11 @@ Minimally invasive current sensor board
   * 大電流(数100W～1000W程度)の場合は部品裏側のシルク点線に合わせて電源ケーブルを固定してください  
   
  <img src="https://github.com/meerstern/AC_Current_Sensor_Module/blob/master/IMG/AC_IMG4.JPG" width="360">
-   
+ 
+ <img src="https://github.com/meerstern/AC_Current_Sensor_Module/blob/master/IMG/AC_IMG5.JPG" width="360">
+ 
+ <img src="https://github.com/meerstern/AC_Current_Sensor_Module/blob/master/IMG/AC_IMG6.JPG" width="360">
+    
 ## 注意 
  * 布巻き電源ケーブルや傷、破損のある電源ケーブルに対して使用しないでください  
  * 電源ケーブルの破損防止のため、電源ケーブルとセンサ基板を強く固定しないでください  
