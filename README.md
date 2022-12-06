@@ -49,4 +49,10 @@ Minimally invasive current sensor board
  ## 改版情報
  * v1.1→v1.2で出力リップル及び出力オフセット低減のため、変更しています(R9:100k→0ohm、C6:2nF→10nF)  
  * 基板レイアウトを一部変更していますが、回路に変更はありません  
+ 
+ ## 販売サイト
+  * [スイッチサイエンス][2]
+  
+  [2]: https://www.switch-science.com/products/6582
+ 
  MIT Lisense
